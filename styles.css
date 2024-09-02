@@ -1,0 +1,41 @@
+
+thead {
+    background-color: #353b3c;
+    color:white;
+    border: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    }
+
+main{
+    position: relative;
+}
+h1 {
+    text-align: center;
+    color: #846a6a;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+h2 {
+    text-align: center;
+    color: #a2999e
+}
+
+table {
+    background-color: #C6C7C4;
+    border: 2px solid black;
+    margin: auto;
+    width: 650px;
+}
+
+td {
+    border-top: 1px solid #353b3c;
+    font-family: monospace;
+}
+
+img {
+    position:absolute;
+    top: 67%;
+    right: 170px;
+    width: 40px;
+    height:auto;
+}
